@@ -1,0 +1,7 @@
+project:
+  title: "H-Mateus"
+  render:
+    - README.qmd
+
+
+
