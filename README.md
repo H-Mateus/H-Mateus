@@ -4,6 +4,7 @@ Hi!
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 <!-- # H-Mateus -->
 <!-- badges: start -->
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=H-Mateus) -->
 <!-- badges: end -->
 
 I’m a bioinformatician in the [UK Dementia Research
