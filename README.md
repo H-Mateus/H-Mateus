@@ -39,22 +39,11 @@ I care about **reproducible research**, clean workflows, and building analysis p
 
 ---
 
-## A few things I’ve worked on
-
-- **AD Neurovascular Atlas** (scientific / multi-omics):  
-  <https://github.com/UKDRI/AD-Neurovascular-Atlas>
-- **MET581 teaching materials** (coursework, practicals, reproducible examples):  
-  <https://github.com/H-Mateus/MET581---Computing-for-Bioinformatics-and-Genetic-Epidemiology>
-- **Asteroids (Python)** (small game project while learning Python):  
-  <https://github.com/H-Mateus/asteroids>
-
----
-
 ## Current interests
 
 - Single-cell analysis with reproducible workflows
 - Practical modelling for clinical/biomedical datasets (EHR + omics)
-- Research software practices that make collaboration easier
+- Advocating for better research practises by promoting reproducibility and open science!
 
 ---
 _If you’d like to collaborate on omics analysis, workflows, or teaching materials, feel free to reach out._
