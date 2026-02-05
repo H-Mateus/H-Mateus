@@ -1,4 +1,4 @@
-# Hi, I’m Gabriel (Mateus) Bernardo Harrington 👋
+# Hi 👋
 
 I’m a **Computational Biologist / Data Analyst** based in the **UK**, working with **high-dimensional biomedical data** (multi-omics, single-cell, proteomics, and EHR).  
 I care about **reproducible research**, clean workflows, and building analysis pipelines that are easy to understand, run, and extend.
