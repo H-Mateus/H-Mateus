@@ -15,7 +15,7 @@ Currently looking for **Research Software Engineer, Platform Engineer, or DevOps
 
 ## Toolbox
 
-**Platform & Infrastructure**
+**Platform & Infrastructure**  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Flux](https://img.shields.io/badge/Flux%20CD-5468FF?style=flat&logo=fluxcd&logoColor=white)
 ![Talos](https://img.shields.io/badge/Talos%20Linux-FF7300?style=flat)
@@ -28,24 +28,24 @@ Currently looking for **Research Software Engineer, Platform Engineer, or DevOps
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-**Core**
+**Core**  
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Data Pipelines / Reproducibility**
+**Data Pipelines / Reproducibility**  
 ![Nextflow](https://img.shields.io/badge/Nextflow-0DC09D?style=flat&logo=nextflow&logoColor=white)
 ![Apptainer](https://img.shields.io/badge/Apptainer-5A45FF?style=flat&logo=apptainer&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-HPC-111111?style=flat)
 ![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat&logo=quarto&logoColor=white)
 
-**Linux / Data**
+**Linux / Data**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=flat)
 
-**Editor**
+**Editor**  
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
 ---
